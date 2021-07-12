@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Saurabh Singh
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React js & Spring
 - 💞️ I’m looking to collaborate on full stack development 
 - 📫 you can reach me at saurabhss2508@gmail.com
 
